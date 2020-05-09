@@ -1,0 +1,354 @@
+Essential Duties and Responsibilities:
+
+Interpret data, analyze results using statistical techniques and provide ongoing reports.
+
+Develop and implement databases, data collection systems, data analytics and other strategies that optimize statistical efficiency and quality.
+
+Acquire data from primary or secondary data sources and maintain databases/data systems.
+
+Identify, analyze, and interpret trends or patterns in complex data sets.
+
+Filter and “clean” data by reviewing computer reports, printouts, and performance indicators to locate and correct code problems.
+
+Work with Management/Production to prioritize business and information needs.
+
+Locate and define new process improvement opportunities.
+
+Minimum Qualification Requirement:
+
+1. 7+ years of experience
+
+2. Proven working experience as a data analyst or business data analyst.
+
+3. Technical expertise regarding data models, database design development, data mining and segmentation techniques.
+
+4. Strong knowledge of and experience with reporting packages (Business Objects etc), databases (SQL etc), programming (XML, Javascript, or ETL frameworks).
+
+5. Knowledge of statistics and experience using statistical packages for analyzing datasets (Excel, SPSS, SAS etc).
+
+6. Strong analytical skills with the ability to collect, organize, analyze, and disseminate significant amounts of information with attention to detail and accuracy.
+
+7. Adept at queries, report writing and presenting findings.
+
+8. Strong knowledge of Excel (pivot tables, graphs and formulas)
+
+9. BS in Mathematics, Economics, Statistics or equivalent.
+
+Physical Requirements:
+
+1. Able to sit and work at the computer for extended periods of time.
+
+2. Able to lift at least 25 pounds if needed.
+
+3. Able to stoop, kneel, bend at the waist and reach on a daily basis.
+
+Develops, documents, and maintains definition, production, usage, classification, and compliance rules across multiple business units to support the enterprise management of data.
+
+Collaborates with data owners and data custodians to identify and resolve more complex data governance issues in a timely and collaborative manner.
+
+Supports the development of processes and procedures for Data Governance and Stewardship.
+
+Supports the analysis and documentation of data capture standards associated with new products.
+
+Serves as a resource to internal stakeholders
+
+Documents and records information, decisions, and recommendations made by the Data Governance Council.
+
+Education
+
+4 Year/Bachelor's degree or equivalent work experience (4 years of experience in lieu of Bachelor's)
+
+Experience
+
+10 to 15 years of work experience in IT field
+
+2+ years’ experience in the financial and/or insurance industry with data exposure (nice to have)
+
+2+ years’ project management and process development experience
+
+Exposure to data warehousing and management reporting projects/initiatives.
+
+Works with mathematical concepts such as averages and/or variances.
+
+Ability to analyze information and to evaluate the implications of a course of action or solution.
+
+Define problems, collect data, establish facts and draw valid conclusions.
+
+Evaluate trends in data or information.
+
+Demonstrated strong relationship management skills with internal clients (e.g. management, peers and colleagues); proven ability to develop collaborative approaches.
+
+Confident, comfortable communicator with strong written and verbal communication skills.
+
+Proficiency with Microsoft Office Suite (Word, Excel, PowerPoint, Outlook).
+
+
+Key Responsibilities
+
+Understand how to make data visually appealing and simple to both navigate and comprehend for end-users
+Aggregate data from various sources to construct streamlined data pipelines and integrate data from multiple PayPal systems
+Identify key metrics and build exec-facing dashboards to track progress of the business and its highest priority initiatives
+Identify key business levers, establish cause & effect, perform analyses, and communicate key findings to various stakeholders to facilitate data driven decision-making
+Work closely across the matrix with teams like Finance, Marketing, Product, Engineering and senior executives
+Lead and participate in special projects/initiatives: innovate and implement large-scale quality improvements to processes and/or systems by conducting data analysis and making recommendations, troubleshooting technical issues, and refining processes around customer support
+Basic Requirements:
+
+Graduated, or will be graduating, with a bachelor’s or master’s degree in Computer Science, Math, Statistics or related field
+Experience with one or multiple of the following will be highly desirable; Python, Java, Tableau, Jupyter Notebooks, Teradata, Hadoop/Hive, Oracle, JavaScript, SQL, Airflow, Linux, Perl, PHP
+Excellent understanding of computer science fundamentals, data structures, and algorithms
+Demonstrated experience, familiarity and ease with handling large data sets and crunching numbers
+Information Retrieval (search/recommendation/classification) experience or Human Judgment/User Interface experience
+Strong written and verbal communication skills with the ability to translate complex problems into simpler terms, and effectively influence both peers and senior leadership
+
+
+Degree in math, statistics, computer science, a physical or biological science, engineering, or related field. Several years of experience or course work in a programming language such as C/C++, Java, or Python (Python is our primary development language, but is not strictly required).
+Experience working with large data sets, machine learning techniques, developing software for scientific applications, knowledge of high-performance computing techniques, or SQL are highly desirable but not required.
+Background in finance and/or industry experience is not required.
+We are looking for a highly curious individual who is comfortable in a collaborative environment, and who enjoys seeing the things they build have real world impact.
+
+QUALIFICATIONS
+
+Degree in math, statistics, computer science, a physical or biological science, engineering, or related field.
+Several years of experience or course work in a programming language such as C/C++, java, or python.
+
+Degree in quantitative or business fields preferred
+Prior experience in a consumer organization is a plus
+Web and mobile analytics experience using a variety of tools
+Proficiency with Firebase and/or Google Analytics
+Experience using SQL
+Python experience is a great plus
+Experience with web and mobile tagging, including tag management system (GTM, DTM,...)Ability to build and manage dashboarding tools (Data Studio, Redash, Tableau,...)
+Strong analytical skills
+Team player
+Highly organized, attention to detail and curious
+
+
+
+Partner with stakeholders across the business to apply appropriate statistical analysis and quantitative methods to create datasets, analyze existing data, and predict future trends
+Provide strategic expertise in machine learning and data mining techniques to identify and apply appropriate techniques, including optimization, simulation, regression, decision trees, neural networks, cluster analyses, mixed models, etc.
+Comfortably navigate the entire lifecycle of an analytics initiative – from leading meetings to gather business requirements, selecting datasets, defining appropriate analytics paths to apply, to documenting processes and presenting compelling results that drive outcomes
+Focus on process design and ongoing operational decision support, particularly around staffing optimization, when integrating and using simulation tools
+Expand datasets, enhance data quality, create automated anomaly detection systems, and see issues to resolution
+Balance accuracy of analysis with needs for rapid response – using many types of data, business acumen, and strategic assumptions when data doesn’t exist
+Manage third party relationships to extend data and capabilities, when needed
+Clear understanding of the uses and limitations of statistical applications, and ability to communicate relevant information with a wide variety of audiences
+
+Education and Experience Requirements
+3+ years of experience in data analysis with heavy emphasis on data-driven decision making and applied statistics
+Excellent understanding of machine learning techniques and algorithms, such as k-NN, Naïve Bayes, SVM, decision forecasts, etc.
+1+ years’ experience working with common data science toolkits such as R, Weka, Python/NumPy, MatLab, etc.
+Completed education in Statistics, Mathematics, Operations Research, Computer Science, Machine Learning, or a related field – Master’s or PhD preferred
+Experience in one or more of the following areas: speech/text analytics, data visualization tools, large datasets, distributed computing tools, query languages, or relational databases
+Works well both independently with minimal supervision and cooperatively in a technical team
+Self-motivated individual with a strong passion for creating empirical research and answering complex questions with data
+Ability to clearly communicate data findings to educate partners, motivate action, and improve business outcomes
+Experience with government sponsored health care programs and contact center operations desirable
+
+uild a strategic partnership with cross-functional partners- Finance, Product, Marketing, Operations, Business, Hardware
+Influence and support data-driven decision making via deeper analysis and insights
+Define and measure success metrics for various initiatives
+Design, build and carry out experiments to evaluate hypotheses
+Work in partnership with Data Engineering and Data Science team to build infrastructure, machine learning models
+Build Data Products and Dashboards
+Responsibilities
+
+Lead and grow a team of Analysts to design and execute data-driven decision making
+Set best practices and processes for analysis, model building, experimentation design
+Partner with cross-functional teams to define strategy and vision, and align the team effort and individuals' goals to reach there
+Create a brand for this high impact team to attract and retain top researchers and scientists
+Drive vision and strategy for Analytics team
+Define and build a strong data culture at Spin by working cross-functionally and with data leadership
+Deeply understand the business and proactively spot risks and opportunities
+Be strong people's manager. Manage performance, career goals. Develop the next generation of leaders.
+Serve as coach and mentor to the analysts
+Qualifications
+
+Advanced knowledge in Analytics, Statistics, etc. Preferred in Statistics, Operations Research, Computer Science, Management or related disciplines
+Extensive and relevant work experience leading and growing a high-performing Analytics team
+3+ years of experience in a management role
+5+ years of hands-on experience and knowledge of classic and modern ML and data science tools and techniques
+A proven track record of using quantitative analysis to impact key decisions
+Experience managing and developing a team, covering both individual development as well as overall team strategy and operations
+Strong storyteller and ability to communicate effectively with managers and executives
+Ideally, strong skills in SQL, Python or R
+
+
+Creating database views for live data feeds: 4 years (Required)
+BI tools: Tableau, MicroStrategy, Business Objects, Qlikview: 4 years (Required)
+using statistical analysis software such as Minitab: 2 years (Preferred)
+leading projects, ensuring they are in compliance: 6 years (Preferred)
+requirements analysis, data analysis, and SQL code developme: 8 years (Required)
+working through the full SDLC: 4 years (Preferred)
+planning, coordinating, and monitoring project activities: 6 years (Required)
+development of data-driven dashboard applications: 4 years (Required)
+using SQL development software such as TOAD: 8 years (Required)
+creating metadata/data dictionaries: 6 years (Required)
+designing and implementing reports: 6 years (Required)
+knowledge of data warehousing concepts: 6 years (Required)
+data validation supporting end-user testing of software apps: 6 years (Required)
+working with relational databases: 8 years (Required)
+Education:
+
+Bachelor's (Preferred)
+
+
+Creating database views for live data feeds: 4 years (Required)
+BI tools: Tableau, MicroStrategy, Business Objects, Qlikview: 4 years (Required)
+using statistical analysis software such as Minitab: 2 years (Preferred)
+leading projects, ensuring they are in compliance: 6 years (Preferred)
+requirements analysis, data analysis, and SQL code developme: 8 years (Required)
+working through the full SDLC: 4 years (Preferred)
+planning, coordinating, and monitoring project activities: 6 years (Required)
+development of data-driven dashboard applications: 4 years (Required)
+using SQL development software such as TOAD: 8 years (Required)
+creating metadata/data dictionaries: 6 years (Required)
+designing and implementing reports: 6 years (Required)
+knowledge of data warehousing concepts: 6 years (Required)
+data validation supporting end-user testing of software apps: 6 years (Required)
+working with relational databases: 8 years (Required)
+Education:
+
+Bachelor's (Preferred)
+
+Collaborate with GRS Claims Leadership, Product Teams, and Field Operations to develop business cases and specifications for predictive modeling products.
+Responsible for maintaining current models, monitoring model performance, and identifying continuous improvement opportunities.
+Understand the competitive marketplace, IT environment, claims operations, and data challenges to deliver actionable insights, recommendations, and business processes.
+Liaison with IT to help develop innovative ways to deploy new predictive models into production.
+Become an expert in the GRS Claims data environment and help define the long-term data strategy required for predictive analytics team.
+Present findings, share insights, and make recommendations that impact claims operations.
+Effectively communicate results in written, oral, and presentation formats.
+Regularly partner with GRS Advanced Analytics Hub as well as Liberty Mutual’s broader Data Science and Advanced Analytics communities.
+Qualifications:
+
+Bachelor’s degree required with 5-7+ years of experience in progressively more advanced analytical roles.
+Understanding of and ability to learn various analytical, problem solving, and modeling techniques such as GLMs.
+Significant experience with data-mining techniques such as SQL.
+Experience in one or more programming languages such as Python, R, or SAS strongly preferred.
+Demonstrated ability to collaborate and convey complex information clearly and concisely to a diverse group of stakeholders.
+Ability to establish and build relationships within and outside the organization.
+Exhibits strong communication with management, partners, and stakeholders.
+Desire to help train and mentor junior analysts on team.
+Ability to manage and prioritize multiple concurrent initiatives.
+Knowledge of insurance and claims processes preferred.
+
+-3 years of professional Data Science or Data Analyst experience
+Good Business Acumen and ability to identify new ways the business should be leveraging it's data
+Strong Data Analytics, Analysis, and/or Virtualization expertise
+Product Analysis experience
+Comfortable working with unstructured data or large-data sets
+Proficient Python programming experience
+Strong SQL programming and Relational database knowledge
+Knowledge of Software Development Life Cycle (SDLC)
+Bachelor in Computer Science or similar degree is highly desired
+
+Nice to Have Skills, but Not Required:
+Familiarity with Machine Learning and/or Artificial Intelligence (A.I.)
+Experience with Python data science packages like Scikit-Learn, Pandas, NumPy, and/or SciPy
+Experienced with Unix and Linux
+Experience with NoSQL databases
+Experience with Vertica or similar high-performance databases (snowflake, big query)
+Experience working in an Amazon Web Services (AWS) or cloud computing environment
+Experience scripting with Bash
+
+
+
+Bachelor's degree in a quantitative field (e.g. Mathematics, Computer Science, Physics, Electrical Engineering)
+Exceptional technology skills
+Keen interest in financial markets and trading
+Strong knowledge of Python
+Experience with data analysis techniques along with relevant libraries (e.g. NumPy/SciPy/Pandas, matplotlib, statsmodels)
+Relevant mathematical knowledge (e.g. probability and statistics, financial mathematics, optimization)
+Proponent of software engineering techniques and methods: agile development, continuous integration, code review, unit testing, refactoring and related approaches
+Excellent communication skills: able to argue a point concisely and deal positively with conflicting views
+Advantageous Qualifications
+
+Masters or PhD in a quantitative field
+Demonstrated capacity to do first-class research
+Experience in a front office quantitative analysis role (hedge fund, investment bank)
+Experience with machine learning techniques and relevant Python frameworks (e.g. scikit-learn, Tensorflow)
+
+Supporting planning and development of acquisition efforts and articulates the planning to complete acquisition related documents based on U.S. Coast Guard acquisition policy.
+Leading, conducting, and participating in complex management studies and reviews, including budgeting, scheduling and risk analysis.
+Developing, designing, reviewing and preparing budgetary and financial statements for CG-9 Acquisition Program.
+Computing and estimating the effect of proposed changes in legislation and/or regulations on financial systems and services.
+Leading Integrated Product Teams (IPT) and working groups to support projects and tracking and managing resolution of identified issues.
+Monitoring the use and rate of expenditure of budgeted funds through continuing dialogue with program officials and their staff.
+Preparing project correspondence, presentations, briefings, point papers etc.
+Assist in assessing the effectiveness of public diplomacy and public affairs programs, through the development of:
+impact, process, and performance evaluations;
+randomized control tests; and
+stakeholder and user analysis.
+Assist in the management and execution of monitoring and evaluation projects, including stakeholder engagement, evaluation design, data collection, data analysis, data visualization, and report development.
+Travel to conduct fieldwork associated with monitoring and evaluation projects, including training of local partners, supervision of data collection, and other tasks.
+Assist government staff with development and review of contracting documents for the procurement of research and evaluation services.
+Communicate with colleagues, management, and other contacts outside the Department to gather and analyze information about public diplomacy programs;
+Write reports, letters, presentations, public diplomacy performance measurement and evaluation strategies, and other documents with recommendations for management policies and activities;
+Disseminate public diplomacy evaluation and performance findings, recommendations and strategies to Department senior officials, other decision-makers and key stakeholders, including OMB, NSC, Congress, GAO and DoD.
+Regularly present evaluation results to public diplomacy practitioners, academics, and other interested parties through both formal and informal presentations;
+Curate existing research from both USG and non-USG sources;
+Provide consultation to public diplomacy practitioners on how to design, manage, and use evaluations to inform and improve programs that advance foreign policy objectives;
+Develop and conduct training modules and courses for FSI, and other formal instructional opportunities, for public diplomacy practitioners on how to design and use evaluations;
+Liaise with other evaluation professionals in the public, NGO/Foundation, and academic sectors;
+Work with other Department of State evaluation units, including ECA, IIP, posts, and regional bureau public diplomacy offices;
+Assist with budgeting, scheduling, and other planning tasks for the work unit.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,20 @@
+As the 11th team member and first data scientist at 99.co, I was responsible for ETL pipelines, data analysis / business intelligence, experimentation, and implementation of machine learning algorithms to solve business problems.
+
+Data Science
+- Implemented end-to-end recommendation system using user-based collaborative-filtering algorithm, as well as the emailer to send recommendations in a weekly digest.
+- 3 item-based recommenders for in-page recommendations. Content-based recommender "Similar listings" accounts for ~5% of all listing views.
+- Built the search ranking algorithm "Listrank".
+- Conducted A/B tests, carry out linear regression analyses to refine search ranking and recommenders
+- Researched, evaluated, and implemented the use of Kinesis for communication between certain microservices
+- Maintain business intelligence dashboard
+- Perform ad hoc queries for business team using SQL and python, create scheduled recurring reports
+- Researched and implemented new ETL pipeline, data warehouse, and visualization layer
+- Outlier detection algorithms, which detects ~300 inaccurate listings per day
+- Image detection to detect 4 categories of undesired photo elements
+
+Misc
+- Built and maintain various other backend microservices: Metadata (e.g. when user was last seen online, listing view counts), developments and transactions, analytics, scheduled emails (e.g. new unit alerts).
+- Prototyped consumer-facing development review site
+- Coordinated team of 4 to build consumer trends analysis page
+- Mentored team members in the use of Python, Linux, Git, MongoDB, Supervisor,
+tmux, AWS, SQL
